@@ -9,8 +9,10 @@
 
 ## Usage
 
-1. Build the executable file
+1. Build the executable  
 2. Run it and follow the instruction
+### Or
+1. Download the latest release
 
 
 ## Future Implementations
